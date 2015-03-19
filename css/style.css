@@ -32,6 +32,6 @@ font-family: 'Orbitron', sans-serif;
 font-size: 75%;
 }
 body {
-background: url(elegant.jpg);
+background: url("elegant.jpg");
   background-size: cover;
 }
