@@ -33,5 +33,5 @@ font-size: 75%;
 }
 body {
 background-size: cover;
-background: url(../images/elegant.jpg);
+background: url("../images/elegant.jpg");
 }
