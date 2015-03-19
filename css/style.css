@@ -1,0 +1,37 @@
+header {
+  margin: -10px;
+  background-position: center;
+  font-size: 35px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.jg {
+  margin: 80px 0 160px 45%;
+
+}
+.banner {
+  background: rgba(0,0,0,0.2);
+  height: 300px;
+  color: #C0C0C0;
+}
+.techno {
+    text-indent: 15%;
+    padding-top: 50px;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+.slogan{
+    text-indent: 40%;
+}
+.goth {
+  font-family: 'Carrois Gothic', sans-serif;
+}
+.elegant {
+  font-family: 'Parisienne', cursive;
+}
+.tech {
+font-family: 'Orbitron', sans-serif;
+font-size: 75%;
+}
+body {
+background: url(file:///Users/Escraya/sites/technolegance/images/elegant.jpg);
+  background-size: cover;
+}
